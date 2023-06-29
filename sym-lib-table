@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "${KIPRJMOD}/components lib/ESP32 DEVKITC 32D/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "Joystick")(type "KiCad")(uri "${KIPRJMOD}/components lib/Joystick/THB001P.kicad_sym")(options "")(descr ""))
+  (lib (name "Toggle Switch")(type "KiCad")(uri "${KIPRJMOD}/components lib/Toggle Switch/200MSP1T2B4M2QE.kicad_sym")(options "")(descr ""))
+)
